@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "felixrain"
+  },
+  "cordova": {
+    "id": "com.felixlui.cordova.amaplocation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Cordova Location Plugin Powerd by KIT",
+  "keywords": [
+    "cordova",
+    "location",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "ISC",
+  "name": "com.felixlui.cordova.amaplocation",
+  "version": "0.0.3"
+}
