@@ -1,0 +1,1 @@
+# com.felixlui.cordova.amaplocation
