@@ -6,3 +6,6 @@
 ps:_此插件android定位功能使用高德定位,ios定位功能使用苹果系统自带的定位功能,所以只需要配置android key,不需要配置ios key_
 
 依据com.kit.cordova.amaplocation修改而来。
+
+github repo:
+https://github.com/mopgis/com.felixlui.cordova.amaplocation.git

@@ -3,7 +3,7 @@
         xmlns:rim="http://www.blackberry.com/ns/widgets"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="com.felixlui.cordova.amaplocation"
-        version="0.0.3">
+        version="0.0.4">
   <name>LocationPlugin</name>
   <description>Cordova Location Plugin Powerd by felixlui</description>
   <author email="mopgis@163.com" href="https://gzkit.com.cn">
